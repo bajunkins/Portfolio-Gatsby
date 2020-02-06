@@ -7,7 +7,7 @@ export default () => (
     <Layout>
         <h1>Hi! I'm Bryce Junkins.</h1>
         <p>
-            I am a Junior studying computer science at NCSU (<strong>GO PACK</strong> 🐺).
+            I am a Junior studying computer science at NCSU (<strong>GO PACK</strong> <span role='img'>🐺</span>).
         </p>
     </Layout>
   </div>
