@@ -1,0 +1,21 @@
+div.a {
+    margin: 3rem auto;
+    padding: 2rem; 
+    outline: 5px solid #B8B8D1;
+  }
+
+div.b {
+    padding: 1rem; 
+    outline: 5px solid #FFC145;
+  }
+
+header.a {
+    outline: 5px solid #FF6B6C;
+    padding: 1rem; 
+}
+
+/* 
+    Palletes:
+    A: #B8B8D1, #FFC145, #FF6B6C
+
+*/
