@@ -15,10 +15,16 @@ div.b {
 div.c {
   padding: 1rem; 
   margin: 1rem;
-  background-color: white;
-  border-radius: 25px;
-  height: 100px;
+  background-color: #FFAEAD;
+  border-radius: 20px;
+  height: 122px;
   overflow:visible;
+}
+
+div.cc {
+  padding: 1rem; 
+  background-color: white;
+  border-radius: 10px;
 }
 
 div.d {
@@ -37,6 +43,10 @@ p.a {
   float: right;
   text-align: right;
   width: 300px;
+}
+
+p.c {
+  white-space: pre;
 }
 
   img.a {
@@ -82,7 +92,7 @@ img.e {
 }
 
 header.a {
-    background-color: white;
+  background-color: white; 
     padding: 1rem; 
     border-radius: 25px;
 }
