@@ -1,7 +1,7 @@
 import React from "react"
 import Layout from "../components/layout"
-import bot1 from "../images/tunechef.png"
-import bot2 from "../images/tunechef.png"
+import bot1 from "../images/b1.png"
+import bot2 from "../images/b2.png"
 
 export default () => (
   <Layout>
@@ -26,11 +26,14 @@ export default () => (
     <hr></hr>
 
     <p>
-      Description 1
+      On Reddit, everyone's history is on public display, and is set in stone after 6 months.
+      I think judging someone's character based on their comment history alone is a funny but
+      also dystopian reminder of this fact. I named it after the Thought Police in George Orwell's 1984.
     </p>
 
     <p>
-        Description 2
+        Thought-Police-Bot is built with Python libraries <strong>praw</strong> for interacting with Reddit,
+        and <strong>textblob</strong> for performing the sentiment analysis.
     </p>
   </Layout>
 )
