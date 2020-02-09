@@ -13,7 +13,8 @@ export default () => (
     
     <p>
       TuneChef is a WebApp that <strong>automatically and intelligently</strong> builds a playlist based on the
-      combined music tastes of everyone in your party, using the Spotify API.
+      combined music tastes of everyone in your party, using the Spotify API. I built this with two friends, 
+      and was responsible for retrieving data from the API and building playlists from it.
     </p>
 
     <h4>
