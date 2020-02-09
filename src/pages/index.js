@@ -24,7 +24,7 @@ export default () => (
         <hr></hr>
         <img class="c" src={yos} alt="TC" />
         <p>
-          For <strong>7 months</strong> of 2019 I was lucky enough to intern at Nokia in the Bay Area, where I had an the time of my life going to 
+          For <strong>7 months</strong> of 2019 I was lucky enough to intern at Nokia in the Bay Area, where I had the time of my life going to 
           concerts in SF and exploring the never-ending supply of jaw-dropping landmarks. At the same time,
           I was gaining invaluable industry experience and learning from the innovative and fast-paced Silicon Valley
           culture.

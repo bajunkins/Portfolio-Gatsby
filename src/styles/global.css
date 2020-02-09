@@ -21,11 +21,32 @@ div.c {
   overflow:visible;
 }
 
-div.cc {
-  padding: 1rem; 
-  background-color: white;
-  border-radius: 10px;
-}
+  div.c2 {
+    padding: 1rem; 
+    margin: 1rem;
+    background-color: #CCE8CC;
+    border-radius: 20px;
+    height: 122px;
+    overflow:visible;
+  }
+
+  div.cx {
+    padding: 1rem; 
+    background-color: white;
+    border-radius: 10px;
+  }
+
+  div.cx2 {
+    padding: 1rem; 
+    background-color: white;
+    border-radius: 10px;
+  }
+
+  div.cb {
+    padding: 1rem; 
+    background-color: white;
+    border-radius: 10px;
+  }
 
 div.d {
   margin: 1rem;
@@ -42,7 +63,7 @@ div.e {
 p.a {
   float: right;
   text-align: right;
-  width: 300px;
+  width: 350px;
 }
 
 p.c {
@@ -85,6 +106,17 @@ img.e {
   width: 75px;
   height: 75px;
   float: left;
+}
+
+img.f1 {  
+  border-radius: 8px;
+  width: 600px;
+  border:10px solid #CCE8CC;
+}
+img.f2 {
+  border-radius: 8px;
+  width: 600px;
+  border:10px solid #FFAEAD;
 }
 
 .small {
