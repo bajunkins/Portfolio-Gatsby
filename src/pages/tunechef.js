@@ -28,8 +28,7 @@ export default () => (
       Not only was this my first hackathon project, but it was also my first time ever using 
       JavaScript 🤯. Turns out building an entire project in 24 hours in a 
       language you don't know is a really efficient way to learn the 
-      language. I built this with two friends, 
-      and was responsible for retrieving data from the API and building playlists from it.
+      language. I built TuneChef with two friends at HackNC 2019.
     </p>
 
     <p>
