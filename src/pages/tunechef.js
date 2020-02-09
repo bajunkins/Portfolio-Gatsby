@@ -7,8 +7,6 @@ export default () => (
       <img class="a" src={tunechef} alt="TC" />
     <h1>
         TuneChef 👨🏽‍🍳🎧
-        
-        
     </h1>
     
     <p>

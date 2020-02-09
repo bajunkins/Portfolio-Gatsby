@@ -1,7 +1,7 @@
 import React from "react"
 import Layout from "../components/layout"
-import bot1 from "../images/bot1.png"
-import bot2 from "../images/bot2.png"
+import bot1 from "../images/tunechef.png"
+import bot2 from "../images/tunechef.png"
 
 export default () => (
   <Layout>
