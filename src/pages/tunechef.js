@@ -13,8 +13,7 @@ export default () => (
     
     <p>
       TuneChef is a WebApp that <strong>automatically and intelligently</strong> builds a playlist based on the
-      combined music tastes of everyone in your party, using the Spotify API. I built this with two friends, 
-      and was responsible for retrieving data from the API and building playlists from it.
+      combined music tastes of everyone in your party, using the Spotify API.
     </p>
 
     <h4>
@@ -29,7 +28,8 @@ export default () => (
       Not only was this my first hackathon project, but it was also my first time ever using 
       JavaScript 🤯. Turns out building an entire project in 24 hours in a 
       language you don't know is a really efficient way to learn the 
-      language.
+      language. I built this with two friends, 
+      and was responsible for retrieving data from the API and building playlists from it.
     </p>
 
     <p>
