@@ -5,6 +5,7 @@ import git from "../images/git.png"
 import linked from "../images/linked.png"
 import mail from "../images/mail.png"
 import resume from "../images/resume.png"
+import respdf from '../files/resume.pdf' 
 
 const ListLink = props => (
   <li style={{ display: `inline-block`, marginRight: `1rem` }}>
@@ -21,7 +22,7 @@ export default () => (
           <a href="https://github.com/bajunkins"><img class="d" src={git} alt="TC" /></a>
           <a href="https://www.linkedin.com/in/bajunkins/"><img class="d" src={linked} alt="TC" /></a>
           <a href="mailto:brycejunkinz@gmail.com"><img class="d" src={mail} alt="TC" /></a>
-          <a href="mailto:brycejunkinz@gmail.com"><img class="d" src={resume} alt="TC" /></a>
+          <a href={respdf} download="resume.pdf"><img class="d" src={resume} alt="TC" /></a>
       </div>
     </div>
     </div>  
