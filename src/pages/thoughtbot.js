@@ -15,6 +15,11 @@ export default () => (
       of their profile.
     </p>
 
+    <p>
+    Mentioning "<strong>/u/thought-police-bot</strong>" in a comment on Reddit will
+      trigger an investigation of the author of the comment/post replied to.
+    </p>
+
     <img class="f1" src={bot1} alt="bot1" />
     <img class="f2" src={bot2} alt="bot2" />
 
@@ -33,7 +38,8 @@ export default () => (
 
     <p>
         Thought-Police-Bot is built with Python libraries <strong>praw</strong> for interacting with Reddit,
-        and <strong>textblob</strong> for performing the sentiment analysis.
+        and <strong>textblob</strong> for performing the sentiment analysis, 
+        and is hosted on <strong>AWS EC2</strong>.
     </p>
   </Layout>
 )

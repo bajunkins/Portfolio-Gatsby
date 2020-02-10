@@ -30,6 +30,15 @@ div.c {
     overflow:visible;
   }
 
+  div.c3 {
+    padding: 1rem; 
+    margin: 1rem;
+    background-color: #E2B6CF;
+    border-radius: 20px;
+    height: 122px;
+    overflow:visible;
+  }
+
   div.cx {
     padding: 1rem; 
     background-color: white;
