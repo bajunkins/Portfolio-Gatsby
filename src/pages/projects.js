@@ -14,7 +14,7 @@ export default () => (
     <p>Checkout some of the stuff I've been working on.</p>
       <div class="c" style={{}}>
         <div class="cx">
-          <ListLink to="/tunechef/">TuneChef 👨🏽‍🍳🎧</ListLink>
+          <ListLink to="/projects/tunechef/">TuneChef 👨🏽‍🍳🎧</ListLink>
           <p class="a">
             WebApp that intelligently builds Spotify playlists for your party.
           </p>
@@ -23,7 +23,7 @@ export default () => (
 
       <div class="c2" style={{}}>
         <div class="cx2">
-          <ListLink to="/thoughtbot/">Reddit Thought-Police-Bot 🕵️👁️</ListLink>
+          <ListLink to="/projects/thoughtbot/">Reddit Thought-Police-Bot 🕵️👁️</ListLink>
           <p class="a">
             Reddit bot that conducts sentiment analysis on target's comment history.
           </p>
@@ -32,7 +32,7 @@ export default () => (
 
       <div class="c3" style={{}}>
         <div class="cx2">
-          <ListLink to="/this/">This Site 🧑‍💻</ListLink>
+          <ListLink to="/projects/this/">This Site 🧑‍💻</ListLink>
           <p class="a">
             The site you are on right now!
           </p>

@@ -1,6 +1,6 @@
 import React from "react"
-import Layout from "../components/layout"
-import tunechef from "../images/tunechef.png"
+import Layout from "../../components/layout"
+import tunechef from "../../images/tunechef.png"
 
 export default () => (
   <Layout>

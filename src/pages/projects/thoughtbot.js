@@ -1,7 +1,7 @@
 import React from "react"
-import Layout from "../components/layout"
-import bot1 from "../images/b1.png"
-import bot2 from "../images/b2.png"
+import Layout from "../../components/layout"
+import bot1 from "../../images/b1.png"
+import bot2 from "../../images/b2.png"
 
 export default () => (
   <Layout>
@@ -37,8 +37,8 @@ export default () => (
     </p>
 
     <p>
-        Thought-Police-Bot is built with Python libraries <strong>praw</strong> for interacting with Reddit,
-        and <strong>textblob</strong> for performing the sentiment analysis, 
+        Thought-Police-Bot is built with Python libraries <strong>PRAW</strong> for interacting with Reddit,
+        <strong> TextBlob</strong> for performing the sentiment analysis, 
         and is hosted on <strong>AWS EC2</strong>.
     </p>
   </Layout>

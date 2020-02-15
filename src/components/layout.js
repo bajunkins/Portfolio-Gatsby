@@ -8,7 +8,7 @@ const ListLink = props => (
 )
 
 export default ({ children }) => (
-  <div class = "a" style={{maxWidth: 950}}>
+  <div class = "a" style={{maxWidth: 1050}}>
 
     <Helmet>
       <title>Bryce.</title>

@@ -75,7 +75,13 @@ p.a {
   width: 350px;
 }
 
+p.b {
+  text-align: right;
+  margin: 1rem;
+}
+
 p.c {
+  text-align: right;
   white-space: pre;
 }
 
@@ -89,16 +95,16 @@ p.c {
 img.b {
   border-radius: 8px;
   margin: 1rem;
-  width: 350px;
-  height: 350px;
+  width: 400px;
+  height: 400px;
   float: right;
 }
 
 img.c {
   border-radius: 8px;
   margin: 1rem;
-  width: 350px;
-  height: 350px;
+  width: 400px;
+  height: 400px;
   float: left;
 }
 
