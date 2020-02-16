@@ -28,11 +28,11 @@ export default () => (
         </p>
         <p>
           Being surrounded by the passionate people and high-energy culture leading software innovation was one
-          of the coolest experiences of my life and definitely had a last impact on my perspective of the industry. 
+          of the coolest experiences of my life and definitely had a lasting impact on my perspective of the industry. 
           I am super excited to be a part of it.
         </p>
         <p>
-          This summer I will be interning at <strong>Cisco</strong> in RTP as a software engineer, where I hope to make tangible contributions
+          This summer I will be interning at <strong>Cisco</strong> in Raleigh as a software engineer, where I hope to make tangible contributions
           to my team as well as get my hands dirty with some new technology and tools I've never used before.
         </p>
 
