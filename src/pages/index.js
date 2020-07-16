@@ -26,8 +26,8 @@ export default () => (
           and I'm excited to contribute to it <span role='img'>💻</span>.
         </p>
         <p> 
-          This summer I'm interning at Cisco where I have become comfortable
-          building full stack applications at a professional level, from setting up relational databases to
+          This summer I'm interning at Cisco where I have become confident in my ability
+          to construct full stack applications at a professional level, from setting up relational databases to
           designing and implementing REST apis to wireframing UIs. Thanks to this experience 
           I have finally overcome the imposter syndrome that I think a lot rookies in this industry experience <span role='img'>😂</span>.
         </p>
