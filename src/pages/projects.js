@@ -32,6 +32,15 @@ export default () => (
 
       <div class="c3" style={{}}>
         <div class="cx2">
+          <ListLink to="/projects/wolfsnax/">WolfSnax 🐺🥫</ListLink>
+          <p class="a">
+            The site you are on right now!
+          </p>
+        </div>
+      </div>
+
+      <div class="c" style={{}}>
+        <div class="cx2">
           <ListLink to="/projects/this/">This Site 🧑‍💻</ListLink>
           <p class="a">
             The site you are on right now!

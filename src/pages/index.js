@@ -28,8 +28,7 @@ export default () => (
         <p> 
           This summer I'm interning at Cisco where I have become confident in my ability
           to construct full stack applications at a professional level, from setting up relational databases to
-          designing and implementing REST apis to wireframing UIs. Thanks to this experience 
-          I have finally overcome the imposter syndrome that I think a lot rookies in this industry experience <span role='img'>😂</span>.
+          designing and implementing REST apis to wireframing UIs.
         </p>
 
         <p> </p>
@@ -39,7 +38,7 @@ export default () => (
         <img class="c" src={yos} alt="TC" />
         <p> </p>
         <p>
-          Last year I was lucky enough to spend 7 months in the Bay Area while I was working at Nokia.
+          In 2019 I was lucky enough to spend 7 months in the Bay Area while I was working at Nokia.
           In addition to experiencing the cultural and technical epicenter of the software industry, I also
           discovered some other passions of mine, such as live music <span role='img'>🎤</span> and hiking <span role='img'>🥾</span>. Every weekend I was exploring
           one the area's countless natural landmarks or seeing my favorite artists live in San Francisco.
